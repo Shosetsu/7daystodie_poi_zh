@@ -1,0 +1,939 @@
+Key,File,Type,english,schinese,tchinese
+biome_burnt_forest,biomes,biome,Burnt Forest,焦土,焦土
+biome_snow,biomes,biome,Snow,雪地,雪地
+aaa_armor_testing,POI,POIName,Armor Testing,护甲测试点,護甲測試點
+aaa_trigger_test,POI,POIName,Trigger Test,触发器测试点,觸發器測試點
+abandoned_house_01,POI,POIName,The MeMaw Residence,米玛姥姥宅邸,米瑪姥姥宅邸
+abandoned_house_02,POI,POIName,Jack & Sally's Getaway,杰克与莎莉的幽居,傑克與莎莉的幽居
+abandoned_house_03,POI,POIName,Luke's Vacation Rental,卢克度假屋,盧克度假屋
+abandoned_house_04,POI,POIName,The Mimzy Residence,米姆西宅邸,米姆西宅邸
+abandoned_house_05,POI,POIName,The Papaw Residence,帕普姥爷宅邸,帕普姥爺宅邸
+abandoned_house_06,POI,POIName,Sal's Safehouse,萨尔的安全屋,薩爾的安全屋
+abandoned_house_07,POI,POIName,The Clement Residence,克莱门特宅邸,克萊門特宅邸
+abandoned_house_08,POI,POIName,The Rupert Residence,鲁伯特宅邸,魯伯特宅邸
+abandoned_house_09,POI,POIName,The Dickens Retreat,狄更斯静居,狄更斯靜居
+abandoned_house_10,POI,POIName,K. Reeves Place,K·里维斯宅邸,K·裡維斯宅邸
+apartments_01,POI,POIName,Good Life Apartments,美好生活公寓,美好生活公寓
+apartments_02,POI,POIName,Vanity Tower,虚荣之塔,虛榮之塔
+apartments_03,POI,POIName,The Bend Apartments,本德公寓,本德公寓
+apartments_04,POI,POIName,The Budget Burrows,经济穴居公寓,經濟穴居公寓
+apartments_05,POI,POIName,Slummit Apartments,贫民峰公寓,貧民峰公寓
+apartments_06,POI,POIName,Two Bit Tower,双子塔,雙子塔
+army_camp_01,POI,POIName,Fort Camo,卡莫堡,卡莫堡
+army_camp_02,POI,POIName,Fort Bags,巴格斯堡,巴格斯堡
+army_camp_03,POI,POIName,Fort Quonset,匡塞特堡,匡塞特堡
+army_camp_04,POI,POIName,Fort Razor,剃刀堡,剃刀堡
+army_camp_05,POI,POIName,Fort Choppa,斩切者堡,斬切者堡
+army_camp_06,POI,POIName,Goldrush Station,淘金热哨站,淘金熱哨站
+army_camp_07,POI,POIName,Installation Blue Ridge,蓝岭军事基地,藍嶺軍事基地
+auto_mechanic_01,POI,POIName,A1 Auto,A1车行,A1車行
+bank_01,POI,POIName,Piggy Bank,小猪储蓄所,小豬儲蓄所
+bank_02,POI,POIName,Seemore Bank,西摩尔银行,西摩爾銀行
+bar_01,POI,POIName,Buzz's Bar,嗡嗡酒吧,嗡嗡酒吧
+barn_01,POI,POIName,Hay Dude Fields,干草佬田地,乾草佬田地
+barn_02,POI,POIName,Mason's Barn,梅森谷仓,梅森穀倉
+barn_03,POI,POIName,Boar Barn Fields,野猪谷仓田地,野豬穀倉田地
+base_military_01,POI,POIName,U.S. Army Post #7,美军第7哨所,美軍第7哨所
+base_survivor_02,POI,POIName,The Rejekts Gang Outpost,弃民帮前哨站,棄民幫前哨站
+base_survivor_03,POI,POIName,Quiet Pines Community,静松社区,靜松社區
+body_shop_01,POI,POIName,Collision Center,碰撞维修中心,碰撞維修中心
+bombshelter_01,POI,POIName,Bart's Salvage,巴特废品站,巴特廢品站
+bombshelter_02,POI,POIName,Hexagon Hideaway,六角避难所,六角避難所
+bombshelter_05,POI,POIName,Bunker Buildsite #5,5号地堡工地,5號地堡工地
+bombshelter_06,POI,POIName,Best Pals Shelter,挚友庇护所,摯友庇護所
+bombshelter_07,POI,POIName,Navezgane Civil Defense Shelter,纳维加纳民防地堡,納維迦納民防地堡
+bombshelter_08,POI,POIName,Tracey Family Shelter,特雷西家族地堡,特雷西家族地堡
+bombshelter_09,POI,POIName,Duck Station,鸭子地堡,鴨子地堡
+bombshelter_11,POI,POIName,USA #1 Type Bunker,美式1号地堡,美式1號地堡
+bowling_alley_01,POI,POIName,Pineballs Bowling,松果保龄球馆,松果保齡球館
+bowling_alley_02,POI,POIName,Ballzstrike Bowling,全中保龄球馆,全中保齡球館
+bunker_00,POI,POIName,Area 7,7号区,7號區
+business_burnt_01,POI,POIName,O'malley Oats,奥马利燕麦店,奧馬利燕麥店
+business_burnt_02,POI,POIName,Navezgane Creamery,纳维加纳乳品厂,納維迦納乳品廠
+business_ultramodern_06,POI,POIName,Aeon Amp Lounge,永恒之安夜店,永恆之安夜店
+cabin_01,POI,POIName,Willy's Cabin,威利小屋,威利小屋
+cabin_02,POI,POIName,Marvin's Getaway,马文小屋,馬文小屋
+cabin_03,POI,POIName,The Harrison Residence,哈里森小屋,哈里森小屋
+cabin_04,POI,POIName,Wilbur's Place,威尔伯小屋,威爾伯小屋
+cabin_05,POI,POIName,Shawn's Shack,肖恩小屋,肖恩小屋
+cabin_06,POI,POIName,Roberts Tack Shack,罗伯茨马具小屋,羅伯茨馬具小屋
+cabin_07,POI,POIName,The TJ Morales Residence,TJ·莫拉莱斯小屋,TJ·莫拉萊斯小屋
+cabin_08,POI,POIName,Johnson Family Cabin,约翰逊家族小屋,詹森家族小屋
+cabin_09,POI,POIName,Skeeter's Place,斯基特小屋,斯基特小屋
+cabin_10,POI,POIName,The Knowbly Cabin,诺布里小屋,諾布裡小屋
+cabin_11,POI,POIName,New Life Hope Cabin,新生希望小屋,新生希望小屋
+cabin_12,POI,POIName,Allistair's Cabin,阿利斯泰尔小屋,阿利斯泰爾小屋
+cabin_13,POI,POIName,The Gladue Residence,格拉杜小屋,格拉杜小屋
+cabin_14,POI,POIName,The Burns Cabin,伯恩斯小屋,伯恩斯小屋
+cabin_15,POI,POIName,The Presley Dwellers,普雷斯利小屋,普雷斯利小屋
+cabin_16,POI,POIName,The Broken Axe,断斧小屋,斷斧小屋
+cabin_17,POI,POIName,The Engall's Residence,恩格尔小屋,恩格爾小屋
+cabin_18,POI,POIName,Our Best Moments,难忘时光小屋,難忘時光小屋
+cabin_20,POI,POIName,The Fire Pit Lodge,篝火旅舍,篝火旅舍
+canyon_cliff_dwellings,POI,POIName,Canyon Cliff Dwellings,峡谷崖居,峽谷崖居
+canyon_gift_shop,POI,POIName,Canyon Gift Shop & Diner,峡谷礼品店与小餐馆,峽谷禮品店與小餐館
+canyon_mine,POI,POIName,Canyon Mine,峡谷矿场,峽谷礦場
+carlot_01,POI,POIName,Joey's Carlot,乔伊二手车场,喬伊二手車場
+carlot_02,POI,POIName,Carl's Cars,卡尔车行,卡爾車行
+cave_01,POI,POIName,Steer Gulch,牛犊峡谷,牛犢峽谷
+cave_02,POI,POIName,Pete's Hidey Hole,皮特藏身处,皮特藏身處
+cave_03,POI,POIName,Mushroom Mining Company,蘑菇矿业公司,蘑菇礦業公司
+cave_04,POI,POIName,Hobo Cave,流浪汉洞穴,流浪漢洞穴
+cave_05,POI,POIName,Nav Mt. Cave,纳维山矿洞,納維山礦洞
+cave_06,POI,POIName,Corkscrew Caverns,螺旋洞穴,螺旋洞穴
+cave_07,POI,POIName,Rotten Cavern,腐烂洞穴,腐爛洞穴
+cave_09,POI,POIName,Aranea Caverns,阿拉尼亚洞穴,阿拉尼亞洞穴
+cave_10,POI,POIName,Crossvein Caverns,交脉洞穴,交脈洞穴
+cave_11,POI,POIName,Carlsgood Caverns,卡尔斯巴德洞穴,卡爾斯巴德洞穴
+cave_12,POI,POIName,Spelunker's Surprise,探洞者的惊喜,探洞者的驚喜
+cave_14,POI,POIName,The Secret Chamber,密室,密室
+cave_17,POI,POIName,Nameless Caverns,无名洞穴,無名洞穴
+cave_18,POI,POIName,Devil's Cauldron,恶魔坩埚,惡魔坩堝
+cave_19,POI,POIName,The Breather's Pocket,喘息者之囊,喘息者之囊
+cave_20,POI,POIName,The Eater's Gate,吞噬者之门,吞噬者之門
+cemetery_01,POI,POIName,Mausoleums,陵墓群,陵墓群
+cemetery_02,POI,POIName,Crypts,地下墓穴,地下墓穴
+church_01,POI,POIName,St. Moe's Cathedral,圣莫大教堂,聖莫大教堂
+church_02,POI,POIName,Old Creepy Church,老恐怖教堂,老恐怖教堂
+church_sm_01,POI,POIName,Navezgane Church of Brick,纳维加纳砖砌教堂,納維迦納磚砌教堂
+city_center_01,POI,POIName,Olgiddy & Brother Advertising,奥格迪兄弟广告公司,奧格迪兄弟廣告公司
+commercial_strip_01,POI,POIName,Shady Square Shoppe,幽影广场商铺,幽影廣場商鋪
+commercial_strip_02,POI,POIName,Treats Terrace,美食露台,美食露臺
+commercial_strip_03,POI,POIName,Vick Garrison's Pedipawn,维克·加里森的典当行,維克·加里森的典當行
+commercial_strip_04,POI,POIName,Smorgasbord Square,百味广场,百味廣場
+commercial_strip_05,POI,POIName,Elzner's Emporium,埃尔茨纳商场,埃爾茨納商場
+commercial_strip_07,POI,POIName,Elite Essentials,精英生活馆,精英生活館
+country_junkyard_01,POI,POIName,Junkin,废品站,廢品站
+country_junkyard_02,POI,POIName,Atlas Metal Company,阿特拉斯金属公司,阿特拉斯金屬公司
+countrytown_business_01,POI,POIName,Bigg Buns,大面包房,大麵包房
+countrytown_business_02,POI,POIName,Federal Appliance,联邦电器行,聯邦電器行
+countrytown_business_03,POI,POIName,The Bear Den,熊窝酒馆,熊窩酒館
+countrytown_business_04,POI,POIName,Aldos Cabinet,奥尔多橱柜店,奧爾多櫥櫃店
+countrytown_business_05,POI,POIName,Butcher Pete's,屠夫皮特肉铺,屠夫皮特肉鋪
+countrytown_business_06,POI,POIName,Red Ruby's,红宝石餐厅,紅寶石餐廳
+countrytown_business_07,POI,POIName,Maggie's Corner Cafe,玛吉街角咖啡馆,瑪姬街角咖啡館
+countrytown_business_08,POI,POIName,Wildfire Camping,野火户外用品店,野火戶外用品店
+countrytown_business_09,POI,POIName,4 Ever Video,永恒影像店,永恆影像店
+countrytown_business_10,POI,POIName,Bobcats Bar,山猫酒吧,山貓酒吧
+countrytown_business_11,POI,POIName,Midway Clinic,中途诊所,中途診所
+countrytown_business_12,POI,POIName,Jim & Tim's Bullets and Booze,吉姆和蒂姆的子弹与烈酒,吉姆和蒂姆的子彈與烈酒
+countrytown_business_13,POI,POIName,The Dead Rooster,死公鸡酒馆,死公雞酒館
+countrytown_business_14,POI,POIName,Grumpy's Pub,暴躁酒馆,暴躁酒館
+countrytown_business_15,POI,POIName,Uncle Ray's Supermarket,雷叔叔超市,雷叔叔超市
+countrytown_business_16,POI,POIName,Crazy Billy's Used Cars,疯比利二手车行,瘋比利二手車行
+countrytown_business_17,POI,POIName,Glove Affair Boxing Gym,拳套情缘拳击馆,拳套情緣拳擊館
+courthouse_med_01,POI,POIName,Town Hall,市政厅,市政廳
+departure_city_blk_01,POI,POIName,Departure,启程市,啟程市
+departure_city_blk_plaza,POI,POIName,Departure Plaza,启程广场,啟程廣場
+diersville_city_blk_01,POI,POIName,Diersville,迪尔斯维尔市,迪爾斯維爾市
+diersville_city_blk_02,POI,POIName,Diersville,迪尔斯维尔市,迪爾斯維爾市
+diersville_city_sign_01,POI,POIName,Diersville,迪尔斯维尔市,迪爾斯維爾市
+diner_01,POI,POIName,The Greasy Spoon,油腻勺子小餐馆,油膩勺子小餐館
+diner_02,POI,POIName,Bob's Cafe,鲍勃咖啡馆,鮑勃咖啡館
+diner_03,POI,POIName,Del's Cafe,戴尔咖啡馆,戴爾咖啡館
+diner_04,POI,POIName,Dick's Diner,迪克小餐馆,迪克小餐館
+diner_07,POI,POIName,Navezgane Falls Diner,纳维加纳瀑布小餐馆,納維迦納瀑布小餐館
+docks_01,POI,POIName,BJ's Gas Dock,BJ的加油站码头,BJ的加油站碼頭
+docks_02,POI,POIName,Pal's Marina,帕尔船坞,帕爾船塢
+docks_03,POI,POIName,Haulwell Freight,豪威尔货运码头,豪威爾貨運碼頭
+docks_04,POI,POIName,Middleman Docks,中间人码头,中間人碼頭
+docks_05,POI,POIName,Live Bait Dock,活饵码头,活餌碼頭
+downtown_building_01,POI,POIName,Buy-N-Go Apartments,买即走公寓,買即走公寓
+downtown_building_02,POI,POIName,Pergola Apartments,藤架公寓,藤架公寓
+downtown_building_03,POI,POIName,Stand Tower,斯坦德大厦,斯坦德大廈
+downtown_building_04,POI,POIName,Blaze & Burns Offices,布雷兹与伯恩斯律师事务所,佈雷茲與伯恩斯律師事務所
+downtown_building_05,POI,POIName,Bombshell News,爆炸性新闻社,爆炸性新聞社
+downtown_business_06,POI,POIName,Special Totz,特殊儿童用品店,特殊兒童用品店
+downtown_business_07,POI,POIName,Doggos,狗狗宠物店,狗狗寵物店
+downtown_filler_01,POI,POIName,Lazy Fitness,懒人健身馆,懶人健身館
+downtown_filler_02,POI,POIName,Le Spank,打屁屁俱乐部,打屁屁俱樂部
+downtown_filler_03,POI,POIName,Schittz Law,希茨律师事务所,希茨律師事務所
+downtown_filler_05,POI,POIName,Trilogy Suites,三部曲套房,三部曲套房
+downtown_filler_06,POI,POIName,Downtown Apartments,市中心公寓,市中心公寓
+downtown_filler_07,POI,POIName,Dumpsy Clinic,邓普西诊所,鄧蒲賽診所
+downtown_filler_09,POI,POIName,Century Outlet,世纪折扣店,世紀折扣店
+downtown_filler_11,POI,POIName,Fit Box,健力盒健身馆,健力盒健身館
+downtown_filler_12,POI,POIName,Town Square Apartments,镇广场公寓,鎮廣場公寓
+downtown_filler_13,POI,POIName,Luigi's Pizza,路易吉披萨店,路易吉披薩店
+downtown_filler_14,POI,POIName,Post Office Apartment,邮局公寓楼,郵局公寓樓
+downtown_filler_15,POI,POIName,Downtown Shamway,市中心山威超市,市中心山威超市
+downtown_filler_22,POI,POIName,Gonuts Donuts,疯狂甜甜圈,瘋狂甜甜圈
+downtown_filler_23,POI,POIName,HNN Bank,HNN银行,HNN銀行
+downtown_filler_24,POI,POIName,Ann Hoing's Telemarketing,安·霍英电话营销公司,安·霍英電話行銷公司
+downtown_filler_25,POI,POIName,Mamma Pizza,妈妈披萨店,媽媽披薩店
+downtown_filler_27,POI,POIName,OK Laundry,OK洗衣店,OK洗衣店
+downtown_filler_30,POI,POIName,KLZ Radio,KLZ广播电台,KLZ廣播電臺
+downtown_filler_31,POI,POIName,Downtown MeltDowns,市中心熔岩汉堡,市中心熔岩漢堡
+downtown_filler_park_01,POI,POIName,Loan Tree Park,借贷树公园,借貸樹公園
+downtown_filler_park_02,POI,POIName,Gazebo Park,凉亭公园,涼亭公園
+downtown_filler_park_03,POI,POIName,Crosswalk Park,人行横道公园,人行橫道公園
+downtown_filler_park_04,POI,POIName,Detour Park,绕行公园,繞行公園
+downtown_filler_park_05,POI,POIName,Arch Park,拱门公园,拱門公園
+downtown_filler_plaza_01,POI,POIName,Obelisk Plaza,方尖碑广场,方尖碑廣場
+downtown_filler_plaza_02,POI,POIName,Square Water Plaza,方水广场,方水廣場
+downtown_filler_plaza_03,POI,POIName,Step Water Plaza,阶梯水广场,階梯水廣場
+downtown_filler_plaza_04,POI,POIName,Garden Plaza,花园广场,花園廣場
+downtown_filler_plaza_05,POI,POIName,Memorial Plaza,纪念广场,紀念廣場
+downtown_park_01,POI,POIName,Shady Pointe Park,幽影角公园,幽影角公園
+downtown_park_02,POI,POIName,Federal Plaza,联邦广场,聯邦廣場
+downtown_park_03,POI,POIName,Civic Square,市民广场,市民廣場
+downtown_parking_lot_01,POI,POIName,Downtown Evacuation Point,市中心疏散点,市中心疏散點
+downtown_strip_01,POI,POIName,Flushing Rule Palace,冲水规则宫殿(厕所),沖水規則宮殿(廁所)
+downtown_strip_02,POI,POIName,Richard Munchz Plaza,理查德·芒奇兹广场,理查·芒奇茲廣場
+downtown_strip_03,POI,POIName,Pete's Outlet,皮特折扣店,皮特折扣店
+downtown_strip_04,POI,POIName,Joe's Junction,乔氏路口,喬氏路口
+downtown_strip_05,POI,POIName,Downtown Marketplace,市中心集市,市中心集市
+downtown_strip_07,POI,POIName,Heart's Rent-a-Car,哈特租车行,哈特租車行
+downtown_strip_09,POI,POIName,Pop's Pawn & Bel's Bakery,老爹典当行与贝尔面包店,老爹典當行與貝爾麵包店
+downtown_strip_10,POI,POIName,The Boobie Trap,波霸陷阱(夜店),波霸陷阱(夜店)
+downtown_strip_11,POI,POIName,Diamond's Mens Club,钻石男士俱乐部,鑽石男士俱樂部
+downtown_strip_12,POI,POIName,NFD Downtown HQ,纳维加纳消防局市中心总部,納維迦納消防局市中心總部
+factory_01,POI,POIName,Shamway Factory,山威食品厂,山威食品廠
+factory_02,POI,POIName,Shotgun Messiah Factory,霰弹枪救星工厂,霰彈槍救星工廠
+factory_03,POI,POIName,Pop-N-Pills Factory,快克药业工厂,快克藥業工廠
+farm_01,POI,POIName,Jericho Ranch,耶利哥牧场,耶利哥牧場
+farm_02,POI,POIName,Scarecrow Fields,稻草人田,稻草人田
+farm_03,POI,POIName,Huenink Family Farms,休宁克家族农场,休寧克家族農場
+farm_04,POI,POIName,Animal Hospital,动物医院,動物醫院
+farm_05,POI,POIName,Fiery Farms,炽焰农场,熾焰農場
+farm_06,POI,POIName,Fortified Farm,堡垒农场,堡壘農場
+farm_07,POI,POIName,The Shady Swine,幽影猪场,幽影豬場
+farm_08,POI,POIName,Sweet Sweet Honey Pot Farms,甜甜蜂蜜罐农场,甜甜蜂蜜罐農場
+farm_10,POI,POIName,Red Barn Bed-n-Bath,红谷仓家居店,紅穀倉家居店
+farm_11,POI,POIName,Smithstone Silos,史密史东粮仓,史密史東糧倉
+farm_12,POI,POIName,Abandoned Shady Shed Farms,废弃荫棚农场,廢棄蔭棚農場
+farm_13,POI,POIName,Mason Farms,梅森农场,梅森農場
+farm_14,POI,POIName,Hersh Farm,赫什农场,赫什農場
+farm_15,POI,POIName,Hogzilla Ranch LLC,猪斯拉牧场,豬斯拉牧場
+farm_16,POI,POIName,Judie Witch,朱迪女巫小屋,裘蒂女巫小屋
+farm_17,POI,POIName,McPherson UFO Museum,麦克弗森UFO博物馆,麥克弗森UFO博物館
+farm_20,POI,POIName,Sprout & Sons Nursery,斯普劳特父子苗圃,斯普勞特父子苗圃
+fastfood_01,POI,POIName,Prowlin Petes,潜行者皮特快餐,潛行者皮特速食
+fastfood_02,POI,POIName,Hurry Harry's,匆忙哈里快餐,匆忙哈裡速食
+fastfood_03,POI,POIName,Blue Birdie,蓝色小鸟快餐,藍色小鳥速食
+fastfood_04,POI,POIName,Fats Foods,肥仔快餐,肥仔速食
+fastfood_05,POI,POIName,Beavers Restaurant,海狸餐厅,海狸餐廳
+fastfood_06,POI,POIName,The Burgcaneer,汉堡海盗快餐,漢堡海盜速食
+fastfood_07,POI,POIName,NEW Mamma Pizza,新妈妈披萨店,新媽媽披薩店
+field_concert_01,POI,POIName,Shady Woods Amphitheatre,幽影林露天剧场,幽影林露天劇場
+fire_station_01,POI,POIName,Fire Station 7,7号消防站,7號消防站
+fire_station_02,POI,POIName,Fire Station 8,8号消防站,8號消防站
+fire_station_03,POI,POIName,Navezgane Fire District #3,纳维加纳消防局第3分局,納維迦納消防局第3分局
+fire_station_04,POI,POIName,NFD Engine 4,纳维加纳消防局4号消防站,納維迦納消防局4號消防站
+football_stadium,POI,POIName,Navezgane Athletics Complex,纳维加纳体育中心,納維迦納體育中心
+funeral_home_01,POI,POIName,Am-I-Gone Funeral Home,我走了吗殡仪馆,我走了嗎殯儀館
+gas_station_01,POI,POIName,Pass-N-Gas Store #01,通燃加油站 #01,通燃加油站 #01
+gas_station_02,POI,POIName,Pass-N-Gas Store #02,通燃加油站 #02,通燃加油站 #02
+gas_station_03,POI,POIName,Pass-N-Gas Store #03,通燃加油站 #03,通燃加油站 #03
+gas_station_04,POI,POIName,Pass-N-Gas Store #04,通燃加油站 #04,通燃加油站 #04
+gas_station_05,POI,POIName,Pass-N-Gas Store #05,通燃加油站 #05,通燃加油站 #05
+gas_station_06,POI,POIName,Pass-N-Gas Store #06,通燃加油站 #06,通燃加油站 #06
+gas_station_07,POI,POIName,Pass-N-Gas Store #07,通燃加油站 #07,通燃加油站 #07
+gas_station_08,POI,POIName,Pass-N-Gas Store #08,通燃加油站 #08,通燃加油站 #08
+gas_station_09,POI,POIName,Pass-N-Gas Store #09,通燃加油站 #09,通燃加油站 #09
+gas_station_10,POI,POIName,Pass-N-Gas Store #10,通燃加油站 #10,通燃加油站 #10
+gas_station_11,POI,POIName,Jerry's Fill,杰瑞加油站,傑瑞加油站
+gas_station_12,POI,POIName,Pass-N-Gas Plaza,通燃加油站广场,通燃加油站廣場
+gravestowne_city_blk_01,POI,POIName,Gravestowne,格雷夫斯敦市,格雷夫斯敦市
+gravestowne_city_blk_half,POI,POIName,Gravestowne,格雷夫斯敦市,格雷夫斯敦市
+gravestowne_city_blk_quarter,POI,POIName,Gravestowne,格雷夫斯敦市,格雷夫斯敦市
+gravestowne_city_sign_01,POI,POIName,Gravestowne,格雷夫斯敦市,格雷夫斯敦市
+gravestowne_street_crater_01,POI,POIName,Gravestowne,格雷夫斯敦市,格雷夫斯敦市
+hospital_01,POI,POIName,Navezgane General Hospital,纳维加纳综合医院,納維迦納綜合醫院
+hotel_01,POI,POIName,Hotel Zombona,僵尸波纳酒店,僵屍波納酒店
+hotel_02,POI,POIName,Haven Hotel,避风港酒店,避風港酒店
+hotel_03,POI,POIName,7 Days Suites,7日套房酒店,7日套房酒店
+hotel_04,POI,POIName,Calm Inn,宁静客栈,寧靜客棧
+hotel_new_01,POI,POIName,Sandy Springs Hotel,沙泉酒店,沙泉酒店
+hotel_ostrich,POI,POIName,Ostrich Hotel,鸵鸟酒店,鴕鳥酒店
+house_burnt_01,POI,POIName,The Owens Residence,欧文斯宅邸,歐文斯宅邸
+house_burnt_02,POI,POIName,The Paciotti Residence,帕乔蒂宅邸,帕喬蒂宅邸
+house_burnt_03,POI,POIName,The Jacobs Residence,雅各布斯宅邸,雅各斯宅邸
+house_burnt_04,POI,POIName,The Rendon Residence,伦登宅邸,倫登宅邸
+house_burnt_05,POI,POIName,The Byington Residence,拜因顿宅邸,拜因頓宅邸
+house_burnt_06,POI,POIName,Seedy Manor,破败庄园,破敗莊園
+house_construction_01,POI,POIName,The Roland Residence,罗兰宅邸,羅蘭宅邸
+house_construction_02,POI,POIName,Kodiak Construction,科迪亚克建筑工地,科迪亞克建築工地
+house_construction_03,POI,POIName,Garage 1st Construction,头牌车库建筑工地,頭牌車庫建築工地
+house_construction_04,POI,POIName,Deracinated Domicile,连根宅邸,連根宅邸
+house_construction_05,POI,POIName,OLD - Uninhabited Mansion,废弃宅邸(旧),廢棄宅邸(舊)
+house_country_01,POI,POIName,Wango Barndo,忘戈仓改屋,忘戈倉改屋
+house_modern_01,POI,POIName,The Nairn Residence,奈恩宅邸,奈恩宅邸
+house_modern_02,POI,POIName,The Nightstar Residence,夜星宅邸,夜星宅邸
+house_modern_03,POI,POIName,The Draycott Residence,德雷科特宅邸,德雷科特宅邸
+house_modern_04,POI,POIName,The Erickson Residence,埃里克森宅邸,埃裡克森宅邸
+house_modern_05,POI,POIName,The Se?or Drogas Residence,毒枭宅邸,毒梟宅邸
+house_modern_06,POI,POIName,The Barniskis Residence,巴尼斯基斯宅邸,巴尼斯基斯宅邸
+house_modern_07,POI,POIName,The LaGrega Residence,拉格雷加宅邸,拉格雷加宅邸
+house_modern_08,POI,POIName,The Contino Residence,康蒂诺宅邸,康蒂諾宅邸
+house_modern_09,POI,POIName,The Rua Residence,鲁阿宅邸,魯阿宅邸
+house_modern_10,POI,POIName,Bullis-Bates Estate,布利斯-贝茨庄园,布利斯-貝茨莊園
+house_modern_11,POI,POIName,The Strogatz Residence,施特罗加茨宅邸,施特羅加茨宅邸
+house_modern_12,POI,POIName,The Eisele Residence,艾瑟勒宅邸,艾瑟勒宅邸
+house_modern_13,POI,POIName,The Hinton Residence,欣顿宅邸,欣頓宅邸
+house_modern_14,POI,POIName,The Bennett Residence,班尼特宅邸,班尼特宅邸
+house_modern_15,POI,POIName,The Burnett Residence,伯内特宅邸,伯內特宅邸
+house_modern_16,POI,POIName,The Haug Residence,豪格宅邸,豪格宅邸
+house_modern_17,POI,POIName,The Sinkhole House,天坑房屋,天坑房屋
+house_modern_18,POI,POIName,Don Vittorio Spagetto Residence,唐·维托里奥·斯帕盖托宅邸,唐·維托裡奧·斯帕蓋托宅邸
+house_modern_19,POI,POIName,"The ""Broken Dreams"" house","""破碎梦想""之屋","""破碎夢想""之屋"
+house_modern_20,POI,POIName,The Barbosa Residence,巴尔博萨宅邸,巴爾博薩宅邸
+house_modern_21,POI,POIName,The Hellenes Residence,赫伦尼斯宅邸,赫倫尼斯宅邸
+house_modern_22,POI,POIName,The Johansen Residence,约翰森宅邸,約翰森宅邸
+house_modern_23,POI,POIName,Dormer Residence,老虎窗宅邸,老虎窗宅邸
+house_modern_24,POI,POIName,Jeffelon Zuckergates Estate,杰弗隆·扎克盖茨庄园,傑弗隆·紮克蓋茨莊園
+house_modern_25,POI,POIName,Rosilyn Residence,罗西林宅邸,羅西林宅邸
+house_modern_26,POI,POIName,Casa de Machina,机械之屋,機械之屋
+house_modern_27,POI,POIName,OLD - Almeida Residence,阿尔梅达宅邸(旧),阿爾梅達宅邸(舊)
+house_modern_28,POI,POIName,Casa De Vino,酒庄,酒莊
+house_modern_29,POI,POIName,Don Diego Estate,唐·迭戈庄园,唐·迭戈莊園
+house_modern_30,POI,POIName,Towersley Estate,托尔斯利庄园,托爾斯利莊園
+house_modern_31,POI,POIName,Dr. Karen Higashi Residence,凯伦·东博士宅邸,凱倫·東博士宅邸
+house_old_bungalow_01,POI,POIName,The Vaecon Residence,瓦肯宅邸,瓦肯宅邸
+house_old_bungalow_02,POI,POIName,T. Thornbury Residence,T·桑伯里宅邸,T·桑伯裡宅邸
+house_old_bungalow_03,POI,POIName,Home of Jack Canada,杰克·加拿大家园,傑克·加拿大家園
+house_old_bungalow_04,POI,POIName,The Wotton Residence,沃顿宅邸,沃頓宅邸
+house_old_bungalow_05,POI,POIName,The Klemm Residence,克莱姆宅邸,克萊姆宅邸
+house_old_bungalow_06,POI,POIName,A Sewage Problem,排污问题房屋,排汙問題房屋
+house_old_bungalow_07,POI,POIName,Film Fanatic's house,电影迷之屋,電影迷之屋
+house_old_bungalow_08,POI,POIName,The McKean Residence,麦基恩宅邸,麥基恩宅邸
+house_old_bungalow_09,POI,POIName,The Powell Residence,鲍威尔宅邸,鮑威爾宅邸
+house_old_bungalow_10,POI,POIName,The Crow Residence,乌鸦宅邸,烏鴉宅邸
+house_old_bungalow_11,POI,POIName,Johnnytown,强尼镇,強尼鎮
+house_old_bungalow_12,POI,POIName,The Reber Residence,雷伯宅邸,雷伯宅邸
+house_old_cottage_01,POI,POIName,Cobweb Cottage,蛛网小屋,蛛網小屋
+house_old_gambrel_01,POI,POIName,The Hestnes Residence,赫斯特内斯宅邸,赫斯特內斯宅邸
+house_old_gambrel_02,POI,POIName,The Richmond Residence,里士满宅邸,里士滿宅邸
+house_old_gambrel_03,POI,POIName,Bob's Boars & Carl's Corn,鲍勃野猪&卡尔玉米场,鮑勃野豬&卡爾玉米場
+house_old_gambrel_04,POI,POIName,Bert Englund Residence,伯特·恩格伦德宅邸,伯特·恩葛籣德宅邸
+house_old_mansard_01,POI,POIName,The Brown Residence,布朗宅邸,布朗宅邸
+house_old_mansard_02,POI,POIName,The Mortician's house,殡葬师之屋,殯葬師之屋
+house_old_mansard_03,POI,POIName,The Brett Residence,布雷特宅邸,佈雷特宅邸
+house_old_mansard_04,POI,POIName,The Hyde Residence,海德宅邸,海德宅邸
+house_old_mansard_05,POI,POIName,Huskie Manor,哈士奇庄园,哈士奇莊園
+house_old_mansard_06,POI,POIName,The Fates Motel,命运汽车旅馆,命運汽車旅館
+house_old_mansard_07,POI,POIName,The Wright Residence,赖特宅邸,賴特宅邸
+house_old_modular_01,POI,POIName,The Purser Residence,事务长宅邸,事務長宅邸
+house_old_modular_02,POI,POIName,Bill Gearz Place,比尔·吉尔斯之家,比爾·吉爾斯之家
+house_old_modular_03,POI,POIName,The Animal Hoarder,动物囤积者之家,動物囤積者之家
+house_old_modular_04,POI,POIName,The Wagner Residence,瓦格纳宅邸,瓦格納宅邸
+house_old_modular_05,POI,POIName,The Gilbert Residence,吉尔伯特宅邸,吉伯特宅邸
+house_old_modular_06,POI,POIName,The Cook's Residence,库克宅邸,庫克宅邸
+house_old_modular_07,POI,POIName,Spark's Place,斯帕克之家,斯派克之家
+house_old_modular_08,POI,POIName,The Pawtato Residence,爪土豆宅邸,爪土豆宅邸
+house_old_pyramid_01,POI,POIName,The D. Smith Residence,D·史密斯宅邸,D·史密斯宅邸
+house_old_pyramid_02,POI,POIName,The McElveen Residence,麦克埃尔文宅邸,麥克埃爾文宅邸
+house_old_pyramid_03,POI,POIName,The Cartel House,贩毒集团之屋,販毒集團之屋
+house_old_pyramid_04,POI,POIName,The Gully Residence,沟谷宅邸,溝穀宅邸
+house_old_pyramid_05,POI,POIName,The Reed Residence,里德宅邸,裡德宅邸
+house_old_ranch_01,POI,POIName,The Wetz Residence,韦茨宅邸,韋茨宅邸
+house_old_ranch_02,POI,POIName,The Redchurch Residence,红教堂宅邸,紅教堂宅邸
+house_old_ranch_03,POI,POIName,The Goldsmith Residence,戈德史密斯宅邸,戈德史密斯宅邸
+house_old_ranch_04,POI,POIName,The Jensen Residence,延森宅邸,延森宅邸
+house_old_ranch_05,POI,POIName,The McMillin Residence,麦克米林宅邸,麥克米林宅邸
+house_old_ranch_06,POI,POIName,The Huenink Residence,休宁克宅邸,休寧克宅邸
+house_old_ranch_07,POI,POIName,The Brumit Residence,布鲁米特宅邸,布魯米特宅邸
+house_old_ranch_08,POI,POIName,The Fermier Residence,费米耶宅邸,費米耶宅邸
+house_old_ranch_09,POI,POIName,The McCormick Residence,麦考密克宅邸,麥考密克宅邸
+house_old_ranch_10,POI,POIName,The Malone Residence,马龙宅邸,馬龍宅邸
+house_old_ranch_11,POI,POIName,The Hoarders' House,囤积者之屋,囤積者之屋
+house_old_ranch_12,POI,POIName,The McStab Residence,麦克斯塔布宅邸,麥克斯塔布宅邸
+house_old_ranch_13,POI,POIName,The Serrano Residence,塞拉诺宅邸,塞拉諾宅邸
+house_old_spanish_01,POI,POIName,The Serrano Residence,塞拉诺宅邸,塞拉諾宅邸
+house_old_tudor_01,POI,POIName,The Asg?rd Residence,阿斯加德宅邸,阿斯加德宅邸
+house_old_tudor_02,POI,POIName,The Williams Residence,威廉姆斯宅邸,威廉姆斯宅邸
+house_old_tudor_03,POI,POIName,The Zeigler Residence,齐格勒宅邸,齊格勒宅邸
+house_old_tudor_04,POI,POIName,R. Thornbury Residence,R·桑伯里宅邸,R·桑伯裡宅邸
+house_old_tudor_05,POI,POIName,The McLemore Residence,麦克勒莫尔宅邸,麥克勒莫爾宅邸
+house_old_tudor_06,POI,POIName,The Rippon Residence,里彭宅邸,裡彭宅邸
+house_old_victorian_01,POI,POIName,Taylor Manor,泰勒庄园,泰勒莊園
+house_old_victorian_02,POI,POIName,The Lopez Residence,洛佩兹宅邸,洛佩茲宅邸
+house_old_victorian_03,POI,POIName,The Zavislak Residence,扎维斯拉克宅邸,紮維斯拉克宅邸
+house_old_victorian_04,POI,POIName,The Neckarski Residence,内卡斯基宅邸,內卡斯基宅邸
+house_old_victorian_05,POI,POIName,The Perkel Residence,珀克尔宅邸,珀克爾宅邸
+house_old_victorian_06,POI,POIName,The Sandvik Residence,桑德维克宅邸,桑德維克宅邸
+house_old_victorian_07,POI,POIName,The Schweizer Residence,施魏策尔宅邸,施魏策爾宅邸
+house_old_victorian_08,POI,POIName,The Kenvyn Residence,肯文宅邸,肯文宅邸
+house_old_victorian_09,POI,POIName,The Grand Forks Estate,大福克斯庄园,大福克斯莊園
+house_old_victorian_10,POI,POIName,The Curren Residence,柯伦宅邸,柯倫宅邸
+house_old_victorian_11,POI,POIName,The Philippe Residence,菲利普宅邸,菲力浦宅邸
+house_old_victorian_12,POI,POIName,The Kostecky Residence,科斯特基宅邸,科斯特基宅邸
+house_ultramodern_01,POI,POIName,Architect Dayson's House,戴森建筑师之屋,戴森建築師之屋
+house_ultramodern_02,POI,POIName,The Collector's Manor,收藏家庄园,收藏家莊園
+house_ultramodern_05,POI,POIName,Edgeview Estate,崖景庄园,崖景莊園
+house_ultramodern_06,POI,POIName,Samuel David Residence,塞缪尔·戴维宅邸,撒母耳·大衛宅邸
+house_ultramodern_09,POI,POIName,Solaris Loft,索拉里斯阁楼,索拉裡斯閣樓
+house_ultramodern_10,POI,POIName,Chef Horden Clancy's Residence,霍登·克兰西主厨宅邸,霍登·克蘭西主廚宅邸
+house_ultramodern_11,POI,POIName,The Last Party House,终局狂欢屋,終局狂歡屋
+house_ultramodern_12,POI,POIName,Almeida Residence,阿尔梅达宅邸,阿爾梅達宅邸
+house_ultramodern_13,POI,POIName,Pantelli Residence,潘特利宅邸,潘特利宅邸
+house_ultramodern_14,POI,POIName,The Parkins-Jordaan Residence,帕金斯-乔丹宅邸,帕金斯-喬丹宅邸
+house_ultramodern_15,POI,POIName,Uninhabited Mansion,无人豪宅,無人豪宅
+house_ultramodern_16,POI,POIName,OLD Dr. Karen Higashi Residence,凯伦·东博士宅邸(旧),凱倫·東博士宅邸(舊)
+house_ultramodern_19,POI,POIName,Mayor's Home,市长官邸,市長官邸
+housing_development_01,POI,POIName,Housing Development,住宅开发区,住宅開發區
+indian_burial_grounds_01,POI,POIName,Taza Burial Grounds,塔扎墓地,塔紮墓地
+industrial_business_08,POI,POIName,P&B Machining,P&B机械厂,P&B機械廠
+installation_red_mesa,POI,POIName,Red Mesa Compound,红台地基地,紅臺地基地
+junkyard_01,POI,POIName,Ecotrash Recycling Center,生态垃圾回收中心,生態垃圾回收中心
+lodge_01,POI,POIName,Journey's End,旅人终点旅馆,旅人終點旅館
+lot_country_01,POI,POIName,Black Bus Mechanical,黑巴士汽修厂,黑巴士汽修廠
+lot_country_02,POI,POIName,Shade Tree Auto,林荫汽修厂,林蔭汽修廠
+lot_downtown_filler_01,POI,POIName,Downtown Construction Site,市中心工地,市中心工地
+lot_industrial_01,POI,POIName,Industrial Service Systems,工业服务系统,工業服務系統
+lot_industrial_02,POI,POIName,Industrial Trucking,工业货运场,工業貨運場
+lot_industrial_03,POI,POIName,Clunky Oil,笨重石油储罐,笨重石油儲罐
+lot_industrial_04,POI,POIName,Industrial Tank #1,1号工业储罐,1號工業儲罐
+lot_industrial_05,POI,POIName,Busted Industrial Tank,破损工业储罐,破損工業儲罐
+lot_industrial_06,POI,POIName,Destroyed Industrial Tank,摧毁的工业储罐,摧毀的工業儲罐
+lot_industrial_07,POI,POIName,Industrial Tank #2,2号工业储罐,2號工業儲罐
+lot_industrial_08,POI,POIName,Leaking Industrial Tank,泄漏工业储罐,洩漏工業儲罐
+lot_industrial_09,POI,POIName,Clunky Oil Station,笨重石油站,笨重石油站
+lot_industrial_10,POI,POIName,Industrial Construction Site #10,10号工业工地,10號工業工地
+lot_industrial_11,POI,POIName,Power Distribution Station #1,1号配电站,1號配電站
+lot_industrial_12,POI,POIName,Industrial Construction Site #12,12号工业工地,12號工業工地
+lot_industrial_13,POI,POIName,Industrial Demolition Site,工业拆迁区,工業拆遷區
+lot_industrial_14,POI,POIName,County Stockpile,郡县物资堆场,郡縣物資堆場
+lot_industrial_15,POI,POIName,Power Distribution Station #2,2号配电站,2號配電站
+lot_industrial_16,POI,POIName,Mo Power Service,电力服务公司,電力服務公司
+lot_industrial_17,POI,POIName,Construction Warehouse,建筑仓库,建築倉庫
+lot_industrial_18,POI,POIName,Carpet Warehouse,地毯仓库,地毯倉庫
+lot_industrial_19,POI,POIName,Derelict Warehouse,废弃仓库,廢棄倉庫
+lot_industrial_20,POI,POIName,Abandoned Depot,废弃货站,廢棄貨站
+lot_industrial_21,POI,POIName,EZ-Chem Depot,EZ化学仓库,EZ化學倉庫
+lot_rural_filler_01,POI,POIName,Backpack Hill,背包山,背包山
+lot_rural_filler_02,POI,POIName,Blood Forest,血色森林,血色森林
+lot_rural_filler_03,POI,POIName,Hay Field,干草田,乾草田
+lot_rural_filler_04,POI,POIName,Sleepy Woods,寂静森林,寂靜森林
+lot_rural_filler_05,POI,POIName,Lazy Timbers,懒汉林地,懶漢林地
+lot_rural_filler_06,POI,POIName,Wrong Harvester,错误收割地,錯誤收割地
+lot_rural_filler_07,POI,POIName,Cobblestone Clearing,圆石空地,圓石空地
+lot_rural_filler_08,POI,POIName,Anvil Acres,铁砧农庄,鐵砧農莊
+lot_rural_filler_09,POI,POIName,Gentle Grove,平缓树林,平緩樹林
+lot_rural_filler_10,POI,POIName,Paul's Pay Lake,保罗佩湖,保羅佩湖
+lot_rural_filler_11,POI,POIName,Whispering Woodlands,低语林地,低語林地
+lot_ultramodern_empty_01,POI,POIName,Lot For Sale,待售地块,待售地塊
+lot_ultramodern_empty_02,POI,POIName,Construction Site,建筑工地,建築工地
+lot_ultramodern_empty_03,POI,POIName,Private Property,私人地块,私人地塊
+lot_vacant_01,POI,POIName,Container Lot,集装箱堆场,集裝箱堆場
+lot_vacant_02,POI,POIName,7 Hour Park,7小时公园,7小時公園
+lot_vacant_03,POI,POIName,Hobo Camp,流浪汉营地,流浪漢營地
+lot_vacant_04,POI,POIName,Corona Wipes Billboard,科罗娜湿巾广告牌,柯洛娜濕巾看板
+lot_vacant_05,POI,POIName,Oskar's Dumpster,奥斯卡垃圾箱,奧斯卡垃圾箱
+lot_vacant_06,POI,POIName,Shady Dawgs,幽影狗帮地盘,幽影狗幫地盤
+lot_vacant_07,POI,POIName,Treehouse Treasures,树屋宝藏,樹屋寶藏
+lot_vacant_08,POI,POIName,The Shed,工具棚,工具棚
+lot_vacant_09,POI,POIName,Forgotten Playground,被遗忘游乐场,被遺忘遊樂場
+mine_01,POI,POIName,Hybrid Mining,混合矿业,混合礦業
+modern_church_01,POI,POIName,Church of Our Prized Lord,尊贵圣主教堂,尊貴聖主教堂
+motel_01,POI,POIName,Nick's Motel,尼克汽车旅馆,尼克汽車旅館
+motel_02,POI,POIName,Motel Seven,七日汽车旅馆,七日汽車旅館
+motel_03,POI,POIName,Happy Sleep Motel,快乐睡眠旅馆,快樂睡眠旅館
+motel_04,POI,POIName,Greg's Motel,格雷格汽车旅馆,葛列格汽車旅館
+motel_05,POI,POIName,Motel Eight,八日汽车旅馆,八日汽車旅館
+nursing_home_01,POI,POIName,The Last Sunset Nursing Home,栖日余晖疗养院,棲日餘暉療養院
+office_01,POI,POIName,Echo Commons,回声公地办公楼,回聲公地辦公樓
+office_02,POI,POIName,Rise Realty,崛起地产,崛起地產
+office_03,POI,POIName,Historic Office Suites,历史办公套房,歷史辦公套房
+office_04,POI,POIName,Smarketing,营销办公室,行銷辦公室
+office_05,POI,POIName,Tri-Med Group,第三医药集团,第三醫藥集團
+office_06,POI,POIName,Abandoned Office Building,废弃办公楼,廢棄辦公樓
+oldwest_business_01,POI,POIName,Biskitz,比斯饼干店,比斯餅乾店
+oldwest_business_02,POI,POIName,BJ Welding Company,BJ焊接公司,BJ焊接公司
+oldwest_business_03,POI,POIName,Fine Swines,精致猪倌铺,精緻豬官鋪
+oldwest_business_04,POI,POIName,Bath Haus,浴屋,浴屋
+oldwest_business_05,POI,POIName,Oil Tycoons,石油大亨商店,石油大亨商店
+oldwest_business_06,POI,POIName,Spitz Seeds,斯皮茨种子店,斯皮茨種子店
+oldwest_business_07,POI,POIName,Eric's Stuff,埃里克的杂货,埃裡克的雜貨
+oldwest_business_08,POI,POIName,Undie Takers,内衣店,內衣店
+oldwest_business_09,POI,POIName,Earl's Wine Shack,厄尔酒铺,厄爾酒鋪
+oldwest_business_10,POI,POIName,Rifle Martyrs,步枪烈士店,步槍烈士店
+oldwest_business_11,POI,POIName,Skamson Grocery,斯卡姆森杂货,斯卡姆森雜貨
+oldwest_business_12,POI,POIName,Cole's Books,科尔书店,科爾書店
+oldwest_business_13,POI,POIName,Swiggin Serum,畅饮血清店,暢飲血清店
+oldwest_business_14,POI,POIName,Lathan's Hardware,莱森五金店,萊森五金店
+oldwest_church,POI,POIName,First Church of God,第一上帝教堂,第一上帝教堂
+oldwest_coal_factory,POI,POIName,Bear-N-Land Coal Mining,熊地煤矿,熊地煤礦
+oldwest_gallows,POI,POIName,Gallows,绞刑架,絞刑架
+oldwest_jail,POI,POIName,Old West Sheriff,旧西部警长办公室,舊西部警長辦公室
+oldwest_stables,POI,POIName,The Lazy H,懒H马厩,懶H馬廄
+oldwest_strip_01,POI,POIName,Duke's General,公爵百货,公爵百貨
+oldwest_strip_02,POI,POIName,Mornin Lumber Hotel,晨木旅馆,晨木旅館
+oldwest_strip_03,POI,POIName,Bert's Brewery,伯特酿酒厂,伯特釀酒廠
+oldwest_strip_04,POI,POIName,Metal Works,金属工坊,金屬工坊
+oldwest_watertower,POI,POIName,Old West Water Tower,旧西部水塔,舊西部水塔
+park_01,POI,POIName,Arbor Park,树荫公园,樹蔭公園
+park_02,POI,POIName,Fountain Park,喷泉公园,噴泉公園
+park_03,POI,POIName,Lone Pine Park,孤松公园,孤松公園
+park_basketball,POI,POIName,Basketball Court,篮球场,籃球場
+park_plaza_01,POI,POIName,Waterfall Plaza,瀑布广场,瀑布廣場
+park_plaza_02,POI,POIName,Departure Plaza,启程广场,啟程廣場
+parking_garage_01,POI,POIName,ParKing Garage #1,停车王车库#1,停車王車庫#1
+parking_garage_02,POI,POIName,ParKing Garage #2,停车王车库#2,停車王車庫#2
+parking_garage_03,POI,POIName,My Spot Parking,我的车位停车场,我的車位停車場
+parking_garage_04,POI,POIName,My Spot Mega-Parking,我的车位超级停车场,我的車位超級停車場
+parking_lot_01,POI,POIName,Park-n-Pay,付费停车场,付費停車場
+parking_lot_02,POI,POIName,Mobile Field Hospital,移动战地医院,移動戰地醫院
+parking_lot_03,POI,POIName,ParKing Lot,停车王停车场,停車王停車場
+perishton_city_blk_01,POI,POIName,Perishton,佩里斯顿市,佩里斯頓市
+perishton_city_blk_02,POI,POIName,Perishton,佩里斯顿市,佩里斯頓市
+perishton_city_blk_03,POI,POIName,Perishton,佩里斯顿市,佩里斯頓市
+perishton_city_blk_04,POI,POIName,Perishton,佩里斯顿市,佩里斯頓市
+perishton_city_blk_05,POI,POIName,Perishton,佩里斯顿市,佩里斯頓市
+perishton_city_blk_06,POI,POIName,Perishton,佩里斯顿市,佩里斯頓市
+perishton_city_blk_plaza,POI,POIName,Perishton,佩里斯顿市,佩里斯頓市
+perishton_city_sign_01,POI,POIName,Perishton,佩里斯顿市,佩里斯頓市
+perishton_median_01,POI,POIName,Perishton,佩里斯顿市,佩里斯頓市
+perishton_median_02,POI,POIName,Perishton,佩里斯顿市,佩里斯頓市
+perishton_median_03,POI,POIName,Perishton,佩里斯顿市,佩里斯頓市
+perishton_outlet,POI,POIName,Perishton,佩里斯顿市,佩里斯頓市
+perishton_tunnel_01,POI,POIName,Perishton Tunnel South,佩里斯顿南隧道,佩里斯頓南隧道
+perishton_tunnel_02,POI,POIName,Perishton Tunnel North,佩里斯顿北隧道,佩里斯頓北隧道
+perishton_tunnel_north,POI,POIName,Perishton,佩里斯顿市,佩里斯頓市
+perishton_waterworks,POI,POIName,Perishton,佩里斯顿市,佩里斯頓市
+plaza_ultramodern_01,POI,POIName,Mayor's Plaza,市长广场,市長廣場
+plaza_ultramodern_02,POI,POIName,Lindsey Plaza,林赛广场,琳賽廣場
+plaza_ultramodern_03,POI,POIName,Galerie en Plein Air Plaza,露天画廊广场,露天畫廊廣場
+police_station_03,POI,POIName,NPD 3rd Division,纳维加纳警局第三分局,納維迦納警局第三分局
+post_office_01,POI,POIName,Downtown Post Office,市中心邮局,市中心郵局
+post_office_02,POI,POIName,Post Office #2,2号邮局,2號郵局
+prison_01,POI,POIName,Navezgane Corrections,纳维加纳惩教所,納維迦納懲教所
+prison_02,POI,POIName,Navezgane County Jail,纳维加纳郡监狱,納維迦納郡監獄
+quarry_02,POI,POIName,Correa Rockworx,科雷亚石业,科雷亞石業
+radio_station_01,POI,POIName,KZL Radio Station,KZL广播电台,KZL廣播電臺
+radio_station_02,POI,POIName,ZMB Radio Station,ZMB广播电台,ZMB廣播電臺
+radio_station_03,POI,POIName,KZZ Radio Station,KZZ广播电台,KZZ廣播電臺
+ranger_station_01,POI,POIName,Ranger Station Alpha,护林员阿尔法站,護林員阿爾法站
+ranger_station_02,POI,POIName,Ranger Station Beta,护林员贝塔站,護林員貝塔站
+ranger_station_03,POI,POIName,Ranger Station Charlie,护林员查理站,護林員查理站
+ranger_station_04,POI,POIName,Ranger Station Delta,护林员德尔塔站,護林員德爾塔站
+ranger_station_05,POI,POIName,Ranger Station Foxtrot,护林员福克斯站,護林員福克斯站
+ranger_station_06,POI,POIName,Ranger Station Echo,护林员回声站,護林員回聲站
+ranger_station_07,POI,POIName,Ranger Station Golf,护林员高尔夫站,護林員高爾夫站
+remnant_burnt_01,POI,POIName,The Crisp Residence,克里斯普宅邸,克裡斯普宅邸
+remnant_burnt_02,POI,POIName,The Cook Residence,库克宅邸,庫克宅邸
+remnant_burnt_03,POI,POIName,The Kindle Residence,金德尔宅邸,金德爾宅邸
+remnant_burnt_04,POI,POIName,Burnt Cafe,烧毁咖啡馆,燒毀咖啡館
+remnant_burnt_05,POI,POIName,Jon's Ham Radios,乔恩的业余电台,喬恩的業餘電臺
+remnant_burnt_06,POI,POIName,Plating Company,电镀公司,電鍍公司
+remnant_burnt_07,POI,POIName,Krispy Kitchen,香脆厨房,香脆廚房
+remnant_burnt_08,POI,POIName,Mini Market,迷你超市,迷你超市
+remnant_burnt_09,POI,POIName,The Black Residence,布莱克宅邸,布萊克宅邸
+remnant_burnt_10,POI,POIName,The Tan Residence,谭公馆,譚公館
+remnant_business_01,POI,POIName,Shamway Processing,山威加工厂,山威加工廠
+remnant_business_02,POI,POIName,Pop-N-Pills Urgent Care,快克药业急救中心,快克藥業急救中心
+remnant_business_03,POI,POIName,Country Crack-a-Book,乡村破书书店,鄉村破書書店
+remnant_business_04,POI,POIName,Deserted Working Stiff Tools,废弃苦力工具店,廢棄苦力工具店
+remnant_business_05,POI,POIName,Ransacked Shotgun Messiah,洗劫一空的霰弹枪救星店,洗劫一空的霰彈槍救星店
+remnant_business_06,POI,POIName,Kruz-Thru Liquors,十字酒品店,十字酒品店
+remnant_carwash_01,POI,POIName,Auto Wash,自动洗车场,自動洗車場
+remnant_church_01,POI,POIName,Cathedral of the Fallen,陨落者大教堂,隕落者大教堂
+remnant_coffee_shop_01,POI,POIName,Drive-Up Coffee,得来速咖啡,得來速咖啡
+remnant_coffee_shop_02,POI,POIName,Quick Cup,快杯咖啡,快杯咖啡
+remnant_coffee_shop_03,POI,POIName,Coffee Shed,咖啡小屋,咖啡小屋
+remnant_commercial_large_02,POI,POIName,Navezgane Outlets,纳维加纳折扣店,納維迦納折扣店
+remnant_commercial_strip_03,POI,POIName,Outlaw Outlets,法外之徒折扣店,法外之徒折扣店
+remnant_commercial_strip_04,POI,POIName,Westwood Place,西木广场,西木廣場
+remnant_commercial_strip_05,POI,POIName,Paradise Plaza,天堂广场,天堂廣場
+remnant_downtown_filler_01,POI,POIName,Army Takeover,军队接管区,軍隊接管區
+remnant_downtown_filler_02,POI,POIName,Arkco Rusco,阿克拉斯科公司,阿克拉斯科公司
+remnant_downtown_filler_04,POI,POIName,Ivant Business Park,伊万特商业园,伊萬特商業園
+remnant_downtown_filler_05,POI,POIName,Four Oaks Apartments,四橡树公寓,四橡樹公寓
+remnant_downtown_filler_06,POI,POIName,Shabby St. Outlet,破街折扣店,破街折扣店
+remnant_downtown_filler_07,POI,POIName,Abandoned Downtown Deli,废弃市中心熟食店,廢棄市中心熟食店
+remnant_downtown_filler_08,POI,POIName,The View Offices,景观办公楼,景觀辦公樓
+remnant_downtown_filler_09,POI,POIName,Racy's,蕾西店,蕾西店
+remnant_downtown_filler_11,POI,POIName,Moda Bar,时尚酒吧,時尚酒吧
+remnant_downtown_filler_12,POI,POIName,Destroyed Pharmacy,被毁药房,被毀藥房
+remnant_downtown_filler_14,POI,POIName,Crumbled Mo' Power Store,坍塌的电力商店,坍塌的電力商店
+remnant_downtown_filler_15,POI,POIName,Downtown Hotel,市中心酒店,市中心酒店
+remnant_downtown_filler_16,POI,POIName,Decayed Office Tower,腐朽办公楼,腐朽辦公樓
+remnant_downtown_filler_17,POI,POIName,Governor's Office,州长办公室,州長辦公室
+remnant_downtown_filler_18,POI,POIName,Condemned Property,废弃房产,廢棄房產
+remnant_downtown_filler_19,POI,POIName,Critic's Corner,评论家角落,評論家角落
+remnant_downtown_filler_20,POI,POIName,LUX Restaurant,奢华餐厅,奢華餐廳
+remnant_downtown_filler_21,POI,POIName,Pete's Grill,皮特烧烤店,皮特燒烤店
+remnant_downtown_filler_22,POI,POIName,Ship-n-sip Station,即饮即走站,即飲即走站
+remnant_downtown_filler_23,POI,POIName,Booze Vault,酒窖,酒窖
+remnant_downtown_filler_24,POI,POIName,Oasis Workspaces,绿洲办公区,綠洲辦公區
+remnant_downtown_filler_25,POI,POIName,Bark Buzz Business Complex,巴克巴斯商业中心,巴克巴斯商業中心
+remnant_downtown_filler_26,POI,POIName,Flavor Corner,风味角落,風味角落
+remnant_downtown_filler_27,POI,POIName,JBB Worksite #27,JBB工地#27,JBB工地#27
+remnant_downtown_filler_28,POI,POIName,Clean & Cozy Corner,洁净舒适角落,潔淨舒適角落
+remnant_downtown_filler_29,POI,POIName,Stock Shark Offices,股票鲨鱼公司,股票鯊魚公司
+remnant_downtown_filler_30,POI,POIName,Resolution Square,决议广场,決議廣場
+remnant_downtown_strip_01,POI,POIName,The AZ Sport Business Pavilion,AZ运动商业馆,AZ運動商業館
+remnant_downtown_strip_02,POI,POIName,Route 66 Restaurant Row,66号公路餐厅街,66號公路餐廳街
+remnant_downtown_strip_03,POI,POIName,Willtronics Corner,威尔电子角落,威爾電子角落
+remnant_downtown_strip_04,POI,POIName,Buffalo Blues Building,野牛布鲁斯大楼,野牛布魯斯大樓
+remnant_downtown_strip_05,POI,POIName,ZBrews Row,Z酿酒街,Z釀酒街
+remnant_downtown_strip_06,POI,POIName,Sapphire Square,蓝宝石广场,藍寶石廣場
+remnant_downtown_strip_07,POI,POIName,Bruno's Boulevard,布鲁诺大道,布魯諾大道
+remnant_downtown_strip_08,POI,POIName,Urban Style Shops,都市风格商店,都市風格商店
+remnant_downtown_strip_09,POI,POIName,Rhythm & Brews District,韵律与酿酒区,韻律與釀酒區
+remnant_downtown_strip_11,POI,POIName,Fallen Rock Apartments,落石公寓,落石公寓
+remnant_downtown_strip_12,POI,POIName,Patriot Pavilion,爱国者展馆,愛國者展館
+remnant_downtown_strip_13,POI,POIName,Circuit Splits Station,分路电路站,分路電路站
+remnant_downtown_strip_14,POI,POIName,Massive Gains Mall,巨利商场,巨利商場
+remnant_downtown_strip_15,POI,POIName,Bloomington Square,布卢明顿广场,布隆明頓廣場
+remnant_downtown_strip_16,POI,POIName,Carlos' Travel Center,卡洛斯旅行中心,卡洛斯旅行中心
+remnant_downtown_strip_17,POI,POIName,Perk Penny Place,便士福利广场,便士福利廣場
+remnant_downtown_strip_18,POI,POIName,Navezgane Bus Terminal,纳维加纳巴士总站,納維迦納巴士總站
+remnant_downtown_strip_19,POI,POIName,Blue Clover Hotel,蓝苜蓿酒店,藍苜蓿酒店
+remnant_downtown_strip_20,POI,POIName,Fallen Survivor Compound,陷落幸存者营地,陷落倖存者營地
+remnant_farm_01,POI,POIName,Dell Farms,戴尔农场,戴爾農場
+remnant_farm_02,POI,POIName,Yolk River Ranch,蛋黄河牧场,蛋黃河牧場
+remnant_farm_05,POI,POIName,The Tackle Box,钓具盒,釣具盒
+remnant_gas_station_01,POI,POIName,Wasted Pass-N-Gas,废弃通燃加油站,廢棄通燃加油站
+remnant_hospital_01,POI,POIName,Midway Hospital,中途医院,中途醫院
+remnant_hotel_01,POI,POIName,The Joelton Hotel,乔尔顿酒店,喬爾頓酒店
+remnant_house_01,POI,POIName,The Pokket Residence,波克特宅邸,波克特宅邸
+remnant_house_02,POI,POIName,The Rodriguez Residence,罗德里格斯宅邸,羅德里格斯宅邸
+remnant_house_03,POI,POIName,The Chikorina Residence,奇科里纳宅邸,奇科裡納宅邸
+remnant_house_04,POI,POIName,The Splinter Residence,斯普林特宅邸,斯普林特宅邸
+remnant_house_05,POI,POIName,Aves Manor,埃夫斯庄园,埃夫斯莊園
+remnant_house_06,POI,POIName,The Lemon Residence,莱蒙宅邸,萊蒙宅邸
+remnant_house_07,POI,POIName,The White Residence,怀特宅邸,懷特宅邸
+remnant_house_08,POI,POIName,The Berry Residence,贝里宅邸,貝裡宅邸
+remnant_house_09,POI,POIName,Wax Manor,瓦克斯庄园,瓦克斯莊園
+remnant_house_10,POI,POIName,The Collins Residence,柯林斯宅邸,柯林斯宅邸
+remnant_house_11,POI,POIName,The Olive Residence,奥利弗宅邸,奧利弗宅邸
+remnant_house_12,POI,POIName,The Azure Residence,天蓝宅邸,天藍宅邸
+remnant_house_13,POI,POIName,The Lincoln Residence,林肯宅邸,林肯宅邸
+remnant_house_14,POI,POIName,The Alabaster Residence,雪花石膏宅邸,雪花石膏宅邸
+remnant_house_15,POI,POIName,The Washington Residence,华盛顿宅邸,華盛頓宅邸
+remnant_house_16,POI,POIName,The Sky Residence,天空宅邸,天空宅邸
+remnant_house_17,POI,POIName,The Johnson Residence,约翰逊宅邸,詹森宅邸
+remnant_house_18,POI,POIName,The Smoky Loft,烟熏阁楼,煙熏閣樓
+remnant_house_19,POI,POIName,Hangman's Retreat ,刽子手静居,劊子手靜居
+remnant_house_20,POI,POIName,Philip Powers Residence,菲利普·鲍尔斯宅邸,菲力浦·鮑爾斯宅邸
+remnant_house_modern_01,POI,POIName,Marta's Hollow,玛尔塔谷,瑪爾塔穀
+remnant_house_modern_02,POI,POIName,Ransacked Residence,洗劫一空的宅邸,洗劫一空的宅邸
+remnant_house_modern_03,POI,POIName,Soakley Residence,索克利宅邸,索克利宅邸
+remnant_house_ultramodern_01,POI,POIName,Bankrupted Construction,破产建筑,破產建築
+remnant_house_ultramodern_02,POI,POIName,Wardrip Manor,沃德里普庄园,沃德里普莊園
+remnant_house_ultramodern_03,POI,POIName,Rutherford House,卢瑟福宅邸,盧瑟福宅邸
+remnant_house_ultramodern_04,POI,POIName,Goldstein Residence,戈德斯坦宅邸,戈德斯坦宅邸
+remnant_house_ultramodern_05,POI,POIName,Grown-Up Media Group,成长媒体集团,成長媒體集團
+remnant_house_ultramodern_06,POI,POIName,Stream Bro's Crib,直播兄弟之家,直播兄弟之家
+remnant_house_ultramodern_07,POI,POIName,Understone Villa,下石别墅,下石別墅
+remnant_house_ultramodern_08,POI,POIName,Stampford House,斯坦普福德宅邸,斯坦普福德宅邸
+remnant_library_01,POI,POIName,Navezgane Public Library,纳维加纳公共图书馆,納維迦納公共圖書館
+remnant_library_02,POI,POIName,Rogue Nerds Refuge,叛逆书呆子避难所,叛逆書呆子避難所
+remnant_lot_industrial_01,POI,POIName,Dirt Jump Depot,土坡跳跃场,土坡跳躍場
+remnant_mill_01,POI,POIName,Buddies Grain,巴迪谷物厂,巴迪穀物廠
+remnant_oldwest_01,POI,POIName,The Forgotten Wagon,被遗忘的马车,被遺忘的馬車
+remnant_oldwest_02,POI,POIName,The Breakdown,故障点,故障點
+remnant_oldwest_03,POI,POIName,The Raid,突袭点,突襲點
+remnant_oldwest_04,POI,POIName,The Frontiersman,拓荒者营地,拓荒者營地
+remnant_oldwest_05,POI,POIName,The Runaway Spark,逃窜火花营地,逃竄火花營地
+remnant_oldwest_06,POI,POIName,The Hot Tub,热水浴缸,熱水浴缸
+remnant_oldwest_07,POI,POIName,Matchstick Hotel,火柴旅馆,火柴旅館
+remnant_oldwest_08,POI,POIName,The Clutter Chest,杂物箱,雜物箱
+remnant_oldwest_09,POI,POIName,Ruined Barn,毁坏的谷仓,毀壞的穀倉
+remnant_quicklube_01,POI,POIName,Quick Lube,快速润滑店,快速潤滑店
+remnant_school_01,POI,POIName,Montgomery Public School,蒙哥马利公立学校,蒙哥馬利公立學校
+remnant_selfstorage_01,POI,POIName,A1 Self Storage,A1自助仓库,A1自助倉庫
+remnant_selfstorage_02,POI,POIName,Top Storage,顶级仓库,頂級倉庫
+remnant_skyscraper_01,POI,POIName,Abandoned Office Tower,废弃办公塔楼,廢棄辦公塔樓
+remnant_skyscraper_02,POI,POIName,Zillion Tower,兆亿塔,兆億塔
+remnant_skyscraper_03,POI,POIName,Demolition Site,拆迁现场,拆遷現場
+remnant_skyscraper_04,POI,POIName,Meridian Center,子午线中心,子午線中心
+remnant_skyscraper_05,POI,POIName,HNN Bank Building,HNN银行大厦,HNN銀行大廈
+remnant_sports_center_01,POI,POIName,Friendszone Sports Center,朋友圈体育中心,朋友圈體育中心
+remnant_waste_01,POI,POIName,BRR Ice Cream,BRR冰淇淋店,BRR霜淇淋店
+remnant_waste_02,POI,POIName,MeltDowns,熔岩汉堡店,熔岩漢堡店
+remnant_waste_03,POI,POIName,Gray View Apartments,灰景公寓,灰景公寓
+remnant_waste_04,POI,POIName,Zip Coffee,速递咖啡店,速遞咖啡店
+remnant_waste_05,POI,POIName,Mo Power Components Factory,电力元件工厂,電力元件工廠
+remnant_waste_06,POI,POIName,Eye Candy Company,眼悦糖果公司,眼悅糖果公司
+remnant_waste_08,POI,POIName,Box Factory,盒子工厂,盒子工廠
+remnant_waste_15,POI,POIName,JD Shipping,JD货运,JD貨運
+remnant_waste_16,POI,POIName,Wasted Mo Power,废弃电力站,廢棄電力站
+remnant_waste_17,POI,POIName,Nav Pest Control,纳维害虫防治,納維害蟲防治
+remnant_waste_18,POI,POIName,Pristine Healthcare,纯净医疗,純淨醫療
+remnant_waste_19,POI,POIName,Wasted Office Suites,废弃办公套间,廢棄辦公套間
+rest_area_01,POI,POIName,Canis Lupus Rest Area,犬狼休息区,犬狼休息區
+rest_area_02,POI,POIName,Arbor Loop Rest Area,树环休息区,樹環休息區
+rest_area_03,POI,POIName,Crotalus Rest Area,响尾蛇休息区,響尾蛇休息區
+rest_area_04,POI,POIName,Buy-N-Go Rest Stop,买即走休息站,買即走休息站
+rest_area_05,POI,POIName,The Road Gentleman Truck Stop,公路绅士卡车休息站,公路紳士卡車休息站
+restaurant_01,POI,POIName,Restaurant Zelekt,泽莱克特餐厅,澤萊克特餐廳
+restaurant_02,POI,POIName,Bottomless Barrel Buffet,无尽桶自助餐,無盡桶自助餐
+roadside_checkpoint_01,POI,POIName,NDC Checkpoint One,NDC一号检查站,NDC一號檢查站
+roadside_checkpoint_02,POI,POIName,NDC Checkpoint Two,NDC二号检查站,NDC二號檢查站
+roadside_checkpoint_03,POI,POIName,NDC Checkpoint Three,NDC三号检查站,NDC三號檢查站
+roadside_checkpoint_04,POI,POIName,NDC Checkpoint Four,NDC四号检查站,NDC四號檢查站
+roadside_checkpoint_05,POI,POIName,NDC Checkpoint Five,NDC五号检查站,NDC五號檢查站
+roadside_park_01,POI,POIName,Rest Area 7,7号休息区,7號休息區
+roadside_park_02,POI,POIName,Shady Rest Area,幽影休息区,幽影休息區
+roadside_restaurant_01,POI,POIName,The Wagon Diner,马车餐馆,馬車餐館
+roadside_strip_01,POI,POIName,Junkville Saloon,垃圾镇酒馆,垃圾鎮酒館
+roadside_truckstop_01,POI,POIName,Pass-N-Gas Truck Plaza,通燃卡车服务区,通燃卡車服務區
+rubble_burnt_filler_03,POI,POIName,The Emberstack Residence,烬堆宅邸,燼堆宅邸
+rubble_burnt_filler_05,POI,POIName,Hellman's Fire Insurance,赫尔曼火灾保险公司,赫爾曼火災保險公司
+rubble_burnt_filler_11,POI,POIName,Ashworth's Residence,阿什沃斯宅邸,阿什沃斯宅邸
+rubble_burnt_filler_12,POI,POIName,The Emberton Estate,恩伯顿庄园,恩伯頓莊園
+rubble_burnt_filler_13,POI,POIName,The Blazeley Residence,布莱兹利宅邸,布萊茲利宅邸
+rubble_burnt_filler_14,POI,POIName,Church of Our Holy Ashes,圣灰教堂,聖灰教堂
+rubble_burnt_filler_15,POI,POIName,The Scorchingtons Residence,灼烧顿宅邸,灼燒頓宅邸
+rubble_burnt_filler_16,POI,POIName,Charcoal Cabin,炭木小屋,炭木小屋
+rubble_burnt_filler_17,POI,POIName,Flashpoint Flats,闪点公寓,閃點公寓
+rubble_burnt_filler_18,POI,POIName,The Cinderwell Residence,煤渣井宅邸,煤渣井宅邸
+rubble_burnt_filler_19,POI,POIName,Ash & Splash Lodge,灰烬飞溅旅馆,灰燼飛濺旅館
+rubble_burnt_filler_20,POI,POIName,Flare BNB,闪光民宿,閃光民宿
+rubble_burnt_filler_21,POI,POIName,Kris P. Cricket Residence,克里斯·P·蟋蟀宅邸,克裡斯·P·蟋蟀宅邸
+rubble_burnt_filler_22,POI,POIName,Ashroot Manor,灰根庄园,灰根莊園
+rubble_burnt_filler_23,POI,POIName,Robin's Outpost,罗宾前哨,羅賓前哨
+rubble_burnt_filler_24,POI,POIName,The Doll House,玩偶屋,玩偶屋
+rubble_burnt_filler_25,POI,POIName,The Lofted Loss,高空遗失,高空遺失
+rubble_downtown_filler_01,POI,POIName,Leap's Faith,信仰一跃,信仰一躍
+rubble_downtown_filler_02,POI,POIName,King's View,国王观景,國王觀景
+rubble_downtown_filler_03,POI,POIName,Fallen Brick Apartments,落砖公寓,落磚公寓
+rubble_downtown_filler_04,POI,POIName,Hobo Heights Apartments,流浪汉高地公寓,流浪漢高地公寓
+rubble_downtown_filler_05,POI,POIName,Oops Chemical Company,哎呀化学公司,哎呀化學公司
+rubble_downtown_filler_11,POI,POIName,HNN Bank Ruins,HNN银行废墟,HNN銀行廢墟
+rubble_downtown_filler_13,POI,POIName,Figaro Square,费加罗广场,費加羅廣場
+rubble_downtown_filler_14,POI,POIName,Shines Jewelry,闪耀珠宝,閃耀珠寶
+rubble_downtown_filler_15,POI,POIName,Stable & Co Offices,稳定公司办公室,穩定公司辦公室
+rubble_downtown_filler_16,POI,POIName,Diamond Liquors,钻石酒品,鑽石酒品
+rubble_downtown_filler_17,POI,POIName,Safira Boutique,萨菲拉精品店,薩菲拉精品店
+rubble_downtown_filler_18,POI,POIName,Bellcroft Terrace,钟楼台,鐘樓台
+rubble_downtown_filler_19,POI,POIName,Ruined Post Office,毁坏的邮局,毀壞的郵局
+rubble_downtown_filler_20,POI,POIName,Jefferson Complex,杰斐逊综合体,傑弗遜綜合體
+rubble_downtown_filler_21,POI,POIName,Sunset Garage,日落车库,日落車庫
+rubble_downtown_filler_22,POI,POIName,Lawless Station,无法无天站,無法無天站
+rubble_wasteland_filler_06,POI,POIName,Tainted Tudor,污点都铎宅,污點都鐸宅
+rubble_wasteland_filler_11,POI,POIName,Dilapidated Store,破败商店,破敗商店
+rubble_wasteland_filler_12,POI,POIName,Dr. William Neville's Home,威廉·内维尔医生之家,威廉·內維爾醫生之家
+rubble_wasteland_filler_13,POI,POIName,Atomic Burger,原子汉堡,原子漢堡
+rubble_wasteland_filler_14,POI,POIName,Pedlington Residence,佩灵顿宅邸,佩靈頓宅邸
+rubble_wasteland_filler_15,POI,POIName,Lovejoy Apartments,爱悦公寓,愛悅公寓
+rubble_wasteland_filler_16,POI,POIName,Crumbling Remains,崩解遗迹,崩解遺跡
+rubble_wasteland_filler_17,POI,POIName,Wrecked Rest Stop,毁坏的休息站,毀壞的休息站
+rubble_wasteland_filler_18,POI,POIName,Rustbelt Garage,锈带车库,鏽帶車庫
+rubble_wasteland_filler_19,POI,POIName,Pitfall Residence,陷阱宅邸,陷阱宅邸
+rubble_wasteland_filler_20,POI,POIName,Scavengers' Rest,拾荒者休息处,拾荒者休息處
+rubble_wasteland_filler_21,POI,POIName,Decimated EZ-Chem Depot,摧毁的EZ化学仓库,摧毀的EZ化學倉庫
+rubble_wasteland_filler_22,POI,POIName,Table 41,41号桌,41號桌
+rubble_wasteland_filler_23,POI,POIName,Void Apartments,虚空公寓,虛空公寓
+rubble_wasteland_filler_24,POI,POIName,Ironleaf Machines,铁叶机械,鐵葉機械
+rubble_wasteland_filler_25,POI,POIName,Judgment Daycare,审判日托所,審判日托所
+rural_church_01,POI,POIName,White Hill Church of God,白山上帝教堂,白山上帝教堂
+rural_church_02,POI,POIName,Congregation of Blind Faith,盲信会众教堂,盲信會眾教堂
+rural_drive_in_01,POI,POIName,Coleman's Drive-In,科尔曼汽车影院,科爾曼汽車影院
+rural_outdoor_wedding_01,POI,POIName,Bell Lake,钟湖,鐘湖
+rwg_tile_cap,POI,POIName,Cap,死路(地图块),死路(地圖塊)
+rwg_tile_commercial_cap,POI,POIName,Commercial District,商业区(尽头),商業區(盡頭)
+rwg_tile_commercial_corner,POI,POIName,Commercial District,商业区(拐角),商業區(拐角)
+rwg_tile_commercial_intersection,POI,POIName,Commercial District,商业区(十字路),商業區(十字路)
+rwg_tile_commercial_straight,POI,POIName,Commercial District,商业区(直路),商業區(直路)
+rwg_tile_commercial_t,POI,POIName,Commercial District,商业区(T字路),商業區(T字路)
+rwg_tile_corner,POI,POIName,Corner,拐角(地图块),拐角(地圖塊)
+rwg_tile_countryresidential_cap,POI,POIName,Country Residential,乡村住宅区(尽头),鄉村住宅區(盡頭)
+rwg_tile_countryresidential_corner,POI,POIName,Country Residential,乡村住宅区(拐角),鄉村住宅區(拐角)
+rwg_tile_countryresidential_intersection,POI,POIName,Country Residential,乡村住宅区(十字路),鄉村住宅區(十字路)
+rwg_tile_countryresidential_straight,POI,POIName,Country Residential,乡村住宅区(直路),鄉村住宅區(直路)
+rwg_tile_countryresidential_t,POI,POIName,Country Residential,乡村住宅区(T字路),鄉村住宅區(T字路)
+rwg_tile_countrytown_cap,POI,POIName,Country Town,乡村小镇(尽头),鄉村小鎮(盡頭)
+rwg_tile_countrytown_corner,POI,POIName,Country Town,乡村小镇(拐角),鄉村小鎮(拐角)
+rwg_tile_countrytown_intersection,POI,POIName,Country Town,乡村小镇(十字路),鄉村小鎮(十字路)
+rwg_tile_countrytown_straight,POI,POIName,Country Town,乡村小镇(直路),鄉村小鎮(直路)
+rwg_tile_countrytown_t,POI,POIName,Country Town,乡村小镇(T字路),鄉村小鎮(T字路)
+rwg_tile_downtown_cap,POI,POIName,Downtown,市中心(尽头),市中心(盡頭)
+rwg_tile_downtown_corner,POI,POIName,Downtown,市中心(拐角),市中心(拐角)
+rwg_tile_downtown_intersection,POI,POIName,Downtown,市中心(十字路),市中心(十字路)
+rwg_tile_downtown_intersection_02,POI,POIName,Downtown,市中心(十字路02),市中心(十字路02)
+rwg_tile_downtown_straight,POI,POIName,Downtown,市中心(直路),市中心(直路)
+rwg_tile_downtown_t,POI,POIName,Downtown,市中心(T字路),市中心(T字路)
+rwg_tile_gateway_cap,POI,POIName,Gateway,入口区(尽头),入口區(盡頭)
+rwg_tile_highway_corner,POI,POIName,Highway,公路(拐角),公路(拐角)
+rwg_tile_highway_corner_100m,POI,POIName,Highway,公路(拐角100米),公路(拐角100米)
+rwg_tile_highway_corner_50m,POI,极IName,Highway,公路(拐角50米),公路(拐角50米)
+rwg_tile_highway_intersection_50m,POI,POIName,Highway,公路(十字路50米),公路(十字路50米)
+rwg_tile_highway_straight,POI,POIName,Highway,公路(直路),公路(直路)
+rwg_tile_highway_straight_50m,POI,POIName,Highway,公路(直路50米),公路(直路50米)
+rwg_tile_highway_t_50m,POI,POIName,Highway,公路(T字路50米),公路(T字路50米)
+rwg_tile_highway_tdirt_50m,POI,POIName,Highway,公路(土路T字50米),公路(土路T字50米)
+rwg_tile_industrial_cap,POI,POIName,Industrial District,工业区(尽头),工業區(盡頭)
+rwg_tile_industrial_corner,POI,POIName,Industrial District,工业区(拐角),工業區(拐角)
+rwg_tile_industrial_intersection,POI,POIName,Industrial District,工业区(十字路),工業區(十字路)
+rwg_tile_industrial_straight,POI,POIName,Industrial District,工业区(直路),工業區(直路)
+rwg_tile_industrial_t,POI,POIName,Industrial District,工业区(T字路),工業區(T字路)
+rwg_tile_intersection,POI,POIName,Intersection,十字路口(地图块),十字路口(地圖塊)
+rwg_tile_oldwest_cap,POI,POIName,Old West Town,旧西部小镇(尽头),舊西部小鎮(盡頭)
+rwg_tile_oldwest_corner,POI,POIName,Old West Town,旧西部小镇(拐角),舊西部小鎮(拐角)
+rwg_tile_oldwest_intersection,POI,POIName,Old West Town,旧西部小镇(十字路),舊西部小鎮(十字路)
+rwg_tile_oldwest_straight,POI,POIName,Old West Town,旧西部小镇(直路),舊西部小鎮(直路)
+rwg_tile_oldwest_t,POI,POIName,Old West Town,旧西部小镇(T字路),舊西部小鎮(T字路)
+rwg_tile_residential_cap,POI,POIName,Residential,住宅区(尽头),住宅區(盡頭)
+rwg_tile_residential_corner,POI,POIName,Residential,住宅区(拐角),住宅區(拐角)
+rwg_tile_residential_intersection,POI,POIName,Residential,住宅区(十字路),住宅區(十字路)
+rwg_tile_residential_straight,POI,POIName,Residential,住宅区(直路),住宅區(直路)
+rwg_tile_residential_t,POI,POIName,Residential,住宅区(T字路),住宅區(T字路)
+rwg_tile_roadside_straight,POI,POIName,Roadside,路边(直路),路邊(直路)
+rwg_tile_rural_cap,POI,POIName,Rural,乡村(尽头),鄉村(盡頭)
+rwg_tile_rural_corner,POI,POIName,Rural,乡村(拐角),鄉村(拐角)
+rwg_tile_rural_intersection,POI,POIName,Rural,乡村(十字路),鄉村(十字路)
+rwg_tile_rural_straight,POI,POIName,Rural,乡村(直路),鄉村(直路)
+rwg_tile_rural_t,POI,POIName,Rural,乡村(T字路),鄉村(T字路)
+rwg_tile_rural_t_02,POI,POIName,Rural,乡村(T字路02),鄉村(T字路02)
+rwg_tile_rural_t_03,POI,POIName,Rural,乡村(T字路03),鄉村(T字路03)
+rwg_tile_straight,POI,POIName,Straight,直路(地图块),直路(地圖塊)
+rwg_tile_t,POI,POIName,Tee,T字路(地图块),T字路(地圖塊)
+sawmill_01,POI,POIName,Jack's Lumber Mill,杰克锯木厂,傑克鋸木廠
+school_01,POI,POIName,Navezgane High School,纳维加纳高中,納維迦納高中
+school_02,POI,POIName,Favales Academy,法瓦莱斯学院,法瓦萊斯學院
+school_03,POI,POIName,Grover High,格罗弗高中,格羅弗高中
+school_06,POI,POIName,Richmond Primary School,里士满小学,里士滿小學
+school_daycare_01,POI,POIName,Poopy Pants Country Daycare,便便裤乡村日托,便便褲鄉村日托
+school_daycare_02,POI,POIName,Poopy Pants City Daycare,便便裤城市日托,便便褲城市日托
+school_daycare_03,POI,POIName,Fun-Gi Daycare,趣味菌日托,趣味菌日托
+site_camp_01,POI,POIName,Hexed Hikers,中邪徒步者营地,中邪徒步者營地
+site_camp_02,POI,POIName,Camp Arwitheryet,阿维瑟耶特营地,阿維瑟耶特營地
+site_camp_04,POI,POIName,Cautious Campers,谨慎露营者营地,謹慎露營者營地
+site_camp_05,POI,POIName,Camp NomNom,诺姆诺姆营地,諾姆諾姆營地
+site_camp_06,POI,POIName,Hooch Hollow,私酒谷,私酒穀
+site_camp_07,POI,POIName,Survivalist Camp,生存主义者营地,生存主義者營地
+site_camp_08,POI,POIName,Archview Campsite,拱景营地,拱景營地
+site_camp_09,POI,POIName,Burstwater Beach,爆裂水滩,爆裂水灘
+site_camp_10,POI,POIName,Hillfall Camp,山落营地,山落營地
+site_grave_01,POI,POIName,Grave Robber's Surprise,盗墓者的惊喜,盜墓者的驚喜
+site_grave_02,POI,POIName,Digger's Rest,挖掘者安息处,挖掘者安息處
+site_grave_04,POI,POIName,Hollow Chapel Grounds,空心教堂墓地,空心教堂墓地
+site_grave_05,POI,POIName,Mortabury Cemetery,莫塔伯里墓地,莫塔伯裡墓地
+site_grave_07,POI,POIName,Drowned Rest Cemetery,溺亡者安息墓地,溺亡者安息墓地
+site_grave_08,POI,POIName,Brothers' Hollow,兄弟谷,兄弟谷
+site_grave_09,POI,POIName,Crumblemoor Catacombs,塌陷沼墓穴,塌陷沼墓穴
+site_grave_10,POI,POIName,Grasp of Silence Monument,沉寂之握纪念碑,沉寂之握紀念碑
+site_shack_01,POI,POIName,Willy White's Shack,威利·怀特小屋,威利·懷特小屋
+site_shack_04,POI,POIName,Deepwell Shack,深井小屋,深井小屋
+site_shack_05,POI,POIName,Lil? Hill Retreat,小山静居,小山靜居
+site_shack_07,POI,POIName,Moonshiners' Retreat,私酒者静居,私酒者靜居
+site_shack_08,POI,POIName,Stillwater Shack,静水小屋,靜水小屋
+site_shack_09,POI,POIName,Silent Shack,寂静小屋,寂靜小屋
+site_utility_01,POI,POIName,Hybrid Energy Substation #4,混合能源变电站#4,混合能源變電站#4
+site_utility_02,POI,POIName,Hybrid Energy Substation #5,混合能源变电站#5,混合能源變電站#5
+site_utility_03,POI,POIName,WW Pumping Station,水厂泵站,水廠泵站
+site_vendor_01,POI,POIName,Woodchuck's Firewood Sale,伍德查克柴火摊,伍德查克柴火攤
+site_vendor_02,POI,POIName,Chop Shop Chops,剁切肉铺,剁切肉鋪
+site_vendor_04,POI,POIName,Sweet Bee Honey,甜蜜蜂蜂蜜,甜蜜蜂蜂蜜
+site_vendor_05,POI,POIName,Joe's Juicy Roadburger,乔的多汁公路汉堡,喬的多汁公路漢堡
+site_vendor_06,POI,POIName,Eve's Garden Goodies,伊芙园地小铺,伊芙園地小鋪
+site_vendor_07,POI,POIName,Sunny Side Stand,向阳摊,向陽攤
+site_vendor_08,POI,POIName,Freedom Fest,自由庆典,自由慶典
+site_vendor_09,POI,POIName,Marlon's Kart Track,马龙卡丁车场,馬龍卡丁車場
+site_vendor_10,POI,POIName,Last Cast Rentals,最后一抛租车行,最後一拋租車行
+skyscraper_01,POI,POIName,Dishong Tower,地红大厦,地紅大廈
+skyscraper_02,POI,POIName,Crack-a-Book HQ,骇客之书总部,駭客之書總部
+skyscraper_03,POI,POIName,Higashi Pharmaceutical,东部制药大厦,東部製藥大廈
+skyscraper_04,POI,POIName,Tower Construction Site,大厦建筑工地,大廈建築工地
+store_autoparts_01,POI,POIName,Oreally Auto,奥莱利汽车零件,奧萊利汽車零件
+store_bakery_01,POI,POIName,Ma Baker & Sons Bakery,贝克妈妈和儿子面包店,貝克媽媽和兒子麵包店
+store_book_01,POI,POIName,Crack-A-Book,骇客书店,駭客書店
+store_book_02,POI,POIName,Crack-A-Cafe,骇客咖啡馆,駭客咖啡館
+store_book_04,POI,POIName,The Book Barn,书仓,書倉
+store_clothing_01,POI,POIName,Super Savage Country,超级野蛮国度服装店,超級野蠻國度服裝店
+store_clothing_02,POI,POIName,Savage Country,野蛮国度服装店,野蠻國度服裝店
+store_discount_01,POI,POIName,Three Dollar Store,三元店,三元店
+store_electronics_01,POI,POIName,MoPo-Shack,流电小屋,流電小屋
+store_electronics_02,POI,POIName,Mo Power Electronics,巨能电子,巨能電子
+store_grocery_01,POI,POIName,Shamway,山威超市,山威超市
+store_grocery_02,POI,POIName,Super Shamway,超级山威超市,超級山威超市
+store_grocery_03,POI,POIName,Buy-N-Go Grocery,买即走杂货,買即走雜貨
+store_grocery_04,POI,POIName,Moe's Grocery,莫的杂货店,莫的雜貨店
+store_grocery_05,POI,POIName,Boe's Market,博的超市,博的超市
+store_grocery_06,POI,POIName,Joe's USA,乔的美国店,喬的美國店
+store_gun_01,POI,POIName,Shotgun Messiah Range,霰弹枪救星射击场,霰彈槍救星射擊場
+store_gun_02,POI,POIName,Close Encounters Gun Range,命悬一线射击场,命懸一線射擊場
+store_hardware_01,POI,POIName,Working Stiff Tools,五金工具店,五金工具店
+store_hardware_02,POI,POIName,Working Stiff Superstore,五金工具超级店,五金工具超級店
+store_hardware_03,POI,POIName,Wasted Stiff's,废弃五金工具店,廢棄五金工具店
+store_laundry_01,POI,POIName,Dirty Laundry,脏衣服洗衣店,髒衣服洗衣店
+store_pharmacy_01,POI,POIName,Pop-N-Pills Mini-Mart,快克药业便利店,快克藥業便利店
+store_pharmacy_02,POI,POIName,Pop-N-Pills,快克药店,快克藥店
+survivor_camp_01,POI,POIName,Camp BBQ,烧烤营地,燒烤營地
+survivor_camp_02,POI,POIName,Camp Bravo,布拉沃营地,布拉沃營地
+survivor_camp_03,POI,POIName,Camp Cardinal,卡迪纳尔营地,卡迪納爾營地
+survivor_site_01,POI,POIName,Camp Carlson,卡尔森营地,卡爾森營地
+survivor_site_02,POI,POIName,The Smokehouse,熏制屋,薰制屋
+survivor_site_03,POI,POIName,Radio Outpost,电台前哨,電臺前哨
+survivor_site_04,POI,POIName,Camp Deucenhalf,迪森半营地,迪森半營地
+survivor_site_05,POI,POIName,Mercy Point Camp,慈悲点营地,慈悲點營地
+survivor_site_06,POI,POIName,Hog Foot Village,猪蹄村,豬蹄村
+survivor_site_07,POI,POIName,Camp Carwhal,卡尔瓦尔营地,卡爾瓦爾營地
+survivor_site_08,POI,POIName,The Simmons Shanty,西蒙斯棚屋,西蒙斯棚屋
+survivor_site_09,POI,POIName,Caravan Carousel,大篷车旋转地,大篷車旋轉地
+survivor_site_10,POI,POIName,Dug In Denizens,掘地居民点,掘地居民點
+survivor_site_11,POI,POIName,Cabin Retreat,小屋静居,小屋靜居
+theater_stage_01,POI,POIName,Minotaur Theater,米诺陶剧院,米諾陶劇院
+trader_bob,POI,POIName,Trader Bob,商人鲍勃,商人鮑勃
+trader_bob2,POI,POIName,Trader Bob,商人鲍勃,商人鮑勃
+trader_hugh,POI,POIName,Trader Hugh,商人休,商人休
+trader_hugh2,POI,POIName,Trader Hugh,商人休,商人休
+trader_jen,POI,POIName,Trader Jen,商人珍,商人珍
+trader_jen2,POI,POIName,Trader Jen,商人珍,商人珍
+trader_joel,POI,POIName,Trader Joel,商人乔尔,商人喬爾
+trader_joel2,POI,POIName,Trader Joel,商人乔尔,商人喬爾
+trader_rekt,POI,POIName,Trader Rekt,商人雷克特,商人雷克特
+trader_rekt2,POI,POIName,Trader Rekt,商人雷克特,商人雷克特
+trailer_01,POI,POIName,The Leonard Residence,伦纳德房车,倫納德房車
+trailer_02,POI,POIName,The Bath Residence,巴斯房车,巴斯房車
+trailer_03,POI,POIName,The Thumb Residence,拇指房车,拇指房車
+trailer_04,POI,POIName,Trailer Ranch,房车牧场,房車牧場
+trailer_05,POI,POIName,Anderson's Home,安德森之家,安德森之家
+trailer_06,POI,POIName,Mario Piper,马里奥·派珀,馬里奧·派珀
+trailer_07,POI,POIName,Overgrown Caravan,蔓生大篷车,蔓生大篷車
+trailer_08,POI,POIName,Sizzle Shack,滋滋作响小屋,滋滋作響小屋
+trailer_09,POI,POIName,Eva Victed Court,伊娃·维克特庭院,伊娃·維克特庭院
+trailer_10,POI,POIName,Buster Drivewell's,巴斯特·德赖维尔之家,巴斯特·德賴維爾之家
+trailer_11,POI,POIName,Tragedy Trailer,悲剧房车,悲劇房車
+trailer_12,POI,POIName,Weedle Bro Gardens,威德尔兄弟花园,威德爾兄弟花園
+trailer_13,POI,POIName,The Seller's Trailer,卖家房车,賣家房車
+trailer_park_01,POI,POIName,Honeysuckle Trailer Park,金银花房车公园,金銀花房車公園
+utility_celltower_01,POI,POIName,Cell Tower #1,1号信号塔,1號信號塔
+utility_celltower_02,POI,POIName,Cell Tower #2,2号信号塔,2號信號塔
+utility_celltower_03,POI,POIName,Cell Tower #3,3号信号塔,3號信號塔
+utility_electric_co_01,POI,POIName,Electric Company,电力公司,電力公司
+utility_electric_co_02,POI,POIName,Hybrid Energy,混合能源公司,混合能源公司
+utility_refinery_01,POI,POIName,Pass-N-Gas Refinery,通燃炼油厂,通燃煉油廠
+utility_refinery_02,POI,POIName,Pipeline Gas Co,管道燃气公司,管道燃氣公司
+utility_substation_01,POI,POIName,Hybrid Energy Substation #1,混合能源变电站#1,混合能源變電站#1
+utility_substation_02,POI,POIName,Hybrid Energy Substation #2,混合能源变电站#2,混合能源變電站#2
+utility_substation_03,POI,POIName,Hybrid Energy Substation #3,混合能源变电站#3,混合能源變電站#3
+utility_waterworks_01,POI,POIName,Water Works,自来水厂,自來水廠
+utility_waterworks_02,POI,POIName,Water Works Substation #7,自来水厂7号分站,自來水廠7號分站
+warehouse_01,POI,POIName,OPS Logistics,OPS物流仓库,OPS物流倉庫
+warehouse_02,POI,POIName,Shamway Warehouse,山威仓库,山威倉庫
+warehouse_03,POI,POIName,Infested Warehouse,感染仓库,感染倉庫
+warehouse_04,POI,POIName,Blue Trailer Trucking,蓝色拖车货运,藍色拖車貨運
+warehouse_05,POI,POIName,Working Stiff Tools Warehouse,苦力工具仓库,苦力工具倉庫
+warehouse_06,POI,POIName,OPS Distribution Center,OPS配送中心,OPS配送中心
+warehouse_07,POI,POIName,COC Chemicals,COC化学品仓库,COC化學品倉庫
+warehouse_08,POI,POIName,Johnson's Warehouses,约翰逊仓库,詹森倉庫
+water_tower_01,POI,POIName,Water Tower #1,1号水塔,1號水塔
+water_tower_02,POI,POIName,Water Tower #2,2号水塔,2號水塔
+water_tower_03,POI,POIName,Water Tower #3,3号水塔,3號水塔
+weigh_station_01,POI,POIName,Weston Weigh Station,韦斯顿称重站,韋斯頓稱重站
+wilderness_filler_01,POI,POIName,Shady Slaughter RV,幽影屠宰房车,幽影屠宰房車
+wilderness_filler_02,POI,POIName,Eerie Echoes Campsite,诡异回声营地,詭異回聲營地
+wilderness_filler_03,POI,POIName,Hermit Hollow,隐士谷,隱士谷
+wilderness_filler_04,POI,POIName,Hunter's Retreat,猎人静居,獵人靜居
+wilderness_filler_05,POI,POIName,Prepper's Den,准备者巢穴,準備者巢穴
+wilderness_filler_06,POI,POIName,Overturned Trailer,翻倒的房车,翻倒的房車
+wilderness_filler_07,POI,POIName,The Last Cook,最后的厨师,最後的廚師
+wilderness_filler_08,POI,POIName,Lost Soldiers,迷失士兵,迷失士兵
+wilderness_filler_09,POI,POIName,Flesh Feast Falls,血肉盛宴瀑布,血肉盛宴瀑布
+wilderness_filler_10,POI,POIName,The Mush Pit,蘑菇坑,蘑菇坑
+wilderness_filler_11,POI,POIName,Pump Substation,水泵分站,水泵分站
+wilderness_filler_12,POI,POIName,TV Relay Station,电视中继站,電視中繼站
+wilderness_filler_13,POI,POIName,Marshall's Hunting Lodge,马歇尔狩猎小屋,馬歇爾狩獵小屋
+wilderness_filler_14,POI,POIName,Alpha Den,阿尔法巢穴,阿爾法巢穴
+wilderness_filler_15,POI,POIName,Camp Creepfest,恐怖节营地,恐怖節營地
+wilderness_filler_16,POI,POIName,Mourning Woods,哀悼之森,哀悼之森
+wilderness_filler_17,POI,POIName,Hidden Hollow,隐秘山谷,隱秘山谷
+wilderness_filler_18,POI,POIName,Deserted Creek Campsite,废弃溪流营地,廢棄溪流營地
+wilderness_filler_19,POI,POIName,Body Bag Pit,裹尸袋坑,裹屍袋坑
+wilderness_filler_20,POI,POIName,Bandit's Revenge,土匪复仇地,土匪復仇地
+wilderness_filler_21,POI,POIName,Private Cemetery,私人墓地,私人墓地
+wilderness_filler_22,POI,POIName,Satellite Crash Site,卫星坠毁点,衛星墜毀點
