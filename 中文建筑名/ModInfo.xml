@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml>
     <Name value="POINames_zh" />
-    <DisplayName value="七日杀v2.6的中文翻译补充" />
-    <Description value="让D老师和千老师干了下活。" />
-    <Author value="HousenkaRR" />
-    <Version value="1.0.3" />
+    <DisplayName value="七日杀v3.3的中文翻译补充" />
+    <Author value="AstralSnow" />
+    <Version value="1.0.4" />
     <Website value="https://github.com/Shosetsu/7daystodie_poi_zh" />
 </xml>
